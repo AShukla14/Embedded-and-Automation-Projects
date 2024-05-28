@@ -4,6 +4,7 @@ This repository contains a collection of projects and examples in various fields
 ## Table of Contents
 
 1. [Python Automation](Python_Automation/)
+2. [Embedded_C_STM32F407](Embedded_C_STM32F407/)
 
 
 ## License
