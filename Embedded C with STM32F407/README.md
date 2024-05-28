@@ -11,7 +11,7 @@ This directory contains projects and examples using Embedded C for the STM32F407
    - A project demonstrating UART communication between the STM32F407 and a terminal.
 
 3. **ADC Example**
-   - An example project showcasing analog-to-digital conversion using the STM32F407.
+   - An example project showcasing analog-to-digital conversion using the STM32F407VGT6.
 
 ## Setup
 
