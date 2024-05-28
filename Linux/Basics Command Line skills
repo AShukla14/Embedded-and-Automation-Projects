@@ -1,0 +1,16 @@
+# Linux Basics
+
+## 1. Basic Command Line Skills
+
+### File System Navigation
+
+- **ls**: List directory contents
+- **cd**: Change directory
+- **pwd**: Print working directory
+
+### File Manipulation
+- **cp** : Copy files
+- **mv** : Move or rename files
+- **rm** : Remove files
+- **mkdir** : Create a directory
+- **rmdir** : Remove a directory
